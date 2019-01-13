@@ -1,2 +1,1 @@
-# tspear-netlify
-tspear.com
+Repo for my personal site - tspear.com
